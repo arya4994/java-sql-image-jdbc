@@ -15,11 +15,4 @@ this is a demo JDBC example showing sql connection
 - Now add as much image you want.
 
  - Now Fetch the image by ID per inseted
-  ```sql
- select * from users;
- ``` 
- ```java
- importjavalkj
- public static void main({
 
- })
